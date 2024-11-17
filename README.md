@@ -72,7 +72,7 @@
 
 Get the latest version:
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/yourusername/proxy-tools/releases/latest)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/enowdev/GUI-ProxyTools/releases/latest)
 
 ## 🎯 Use Cases
 
