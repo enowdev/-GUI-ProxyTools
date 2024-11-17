@@ -1,7 +1,6 @@
 # 🌐 Proxy Tools
 
 <div align="center">
-  <img src="assets/banner.png" alt="Proxy Tools Banner" width="800"/>
   
   ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
   ![PyQt5](https://img.shields.io/badge/PyQt5-5.15+-green.svg)
