@@ -102,9 +102,9 @@ If you find this tool useful, consider:
 
 <div align="center">
   
-[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](your_paypal_link)
-[![Saweria](https://img.shields.io/badge/Saweria-Support-orange.svg)](your_saweria_link)
-[![SociaBuzz](https://img.shields.io/badge/SociaBuzz-Donate-red.svg)](your_sociabuzz_link)
+[![PayPal](https://img.shields.io/badge/PayPal-Donate-blue.svg)](https://paypal.me/rckymahardika?country.x=ID&locale.x=en_US)
+[![Saweria](https://img.shields.io/badge/Saweria-Support-orange.svg)](https://saweria.co/Enow)
+[![SociaBuzz](https://img.shields.io/badge/SociaBuzz-Donate-red.svg)](https://sociabuzz.com/enow14)
 
 </div>
 
